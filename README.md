@@ -1,12 +1,10 @@
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0B0B0D,100:1F1F22&height=180&section=header&text=Tanvir%20Singh%20Sandhu%20(ReservedSnow)%20&fontColor=FFFFFF&fontSize=32&animation=fadeIn" />
-</p>
+<center>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0B0B0D,100:1F1F22&height=180&section=header&text=Tanvir%20Singh%20Sandhu%20(ReservedSnow)&fontColor=FFFFFF&fontSize=32&animation=fadeIn" />
+</center>
 
 <p align="center">
-  <b>Web3 & Systems Engineer</b> • exploring the AI systems space<br>
-  Focused on building reliable infra, protocol-level tooling, and minimal-but-powerful systems.
+  <b>Independent Web3 & Systems Engineer</b> • exploring the AI systems space<br>
+  Focused on building reliable infra, protocol-level tooling, and minimal‑but‑powerful systems.
 </p>
 
 ---
@@ -16,19 +14,19 @@
 ```js
 const tanvir = {
   name: "Tanvir Singh Sandhu",
-  aka: "ReservedSnow",
-  role: "Web3 & Systems Engineer",
-  exploring: ["AI systems", "autonomous tooling", "RAG pipelines", "smart automation"],
-  mindset: [
+  alias: "ReservedSnow",
+  role: "Independent Web3 & Systems Engineer",
+  exploring: ["AI systems", "autonomous tooling", "RAG-style automation", "intelligent agents"],
+  philosophy: [
     "composable primitives",
-    "secure + deterministic infra",
-    "high performance systems",
-    "developer-first abstraction design"
+    "deterministic & secure infra",
+    "high‑performance systems",
+    "developer‑first abstractions"
   ],
   strengths: [
     "systems thinking",
-    "protocol-level logic",
-    "end-to-end architecture",
+    "protocol‑level logic",
+    "end‑to‑end architecture",
     "infra reliability"
   ]
 }
@@ -36,27 +34,41 @@ const tanvir = {
 
 ---
 
-## What I'm currently focused on
-- Designing robust on-chain & off-chain workflows  
-- Building composable tooling for EVM / Cosmos / Solana  
-- Systems engineering for reliability & performance  
-- Exploring AI as a tooling supercharger (RAG, automation, code agents)  
-- Experimenting with cross-chain logic, simulations & infra patterns  
+## Career Impact
+
+- **290+ production systems delivered**  
+- **200+ clients served globally**  
+- **$150M+ in cumulative ecosystem value contributed**  
+- **Experience across on‑chain, off‑chain, backend, infra & automation pipelines**  
+- **Deep specialization in system design across Web3 + backend + AI tooling**  
+
+I work independently { and in teams ;) }, owning architecture, implementation, optimisation, and deployment across complex real‑world systems.  
+My focus: **build fast, build reliably, build things that scale.**
 
 ---
 
-## 🛠️ Tech Stack
+## Current Focus
+
+- Designing robust **on‑chain & off‑chain systems**  
+- Building **composable tooling** for EVM / Cosmos / Solana ecosystems  
+- Engineering **reliable, high‑performance backend & infra patterns**  
+- Exploring **AI‑powered automation & intelligent tooling**  
+- Experimenting with **cross‑chain logic, simulations, and system patterns**  
+
+---
+
+## Tech Stack
 
 ### **Languages**
 `Solidity` • `JavaScript` • `TypeScript` • `Python` • `Rust` • `Bash` • `C` / `C++` • `R` • `Go (WIP)`
 
-### **Frameworks / Libraries**
+### **Frameworks & Libraries**
 - **Web / Backend:** Next.js • Express • FastAPI • Flask  
 - **Web3 / Blockchain:** Hardhat • Foundry • CosmWasm • Ethers.js • Web3.js  
 - **Rust / Systems:** Tokio • Serde • Actix  
 - **Frontend:** React • Vite • Tailwind  
-- **ML / Data:** scikit-learn • TensorFlow • Keras • ONNX  
-- **Agents / Automation:** n8n • RAG pipelines • LangChain-style patterns
+- **ML / Data:** scikit‑learn • TensorFlow • Keras • ONNX  
+- **Agents / Automation:** n8n • Custom RAG-style pipelines • LangChain‑pattern architectures  
 
 ### **Blockchain Ecosystems**
 `EVM` • `Cosmos` • `Solana`
@@ -69,25 +81,24 @@ Linux • Docker • Nginx • Kubernetes (WIP)
 
 ---
 
-## Engineering Principles
+## Engineering Philosophy
 
-- Small composable primitives > one giant system  
-- Deterministic behaviour creates reliability  
-- Clarity > cleverness  
-- Ship fast, but never compromise architecture  
-- Developer empathy is a superpower  
+- **Small composable primitives > giant monoliths**  
+- **Deterministic behaviour → reliability**  
+- **Clarity > cleverness**  
+- **Ship fast, never compromise architecture**  
+- **Developer empathy is a superpower**  
 
 ---
 
 ## Contact
 
-Emails:  
 - sandhu.tanvirsingh@yahoo.com  
-- Reservedsnow673@gmail.com  
-- Founder@snowstudios.dev  
+- reservedsnow673@gmail.com  
+- founder@snowstudios.dev  
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting — may your systems be fast, secure, and elegantly abstracted.</i> 
+  <i>Thanks for visiting — may your systems be fast, secure, and elegantly abstracted.</i>
 </p>
