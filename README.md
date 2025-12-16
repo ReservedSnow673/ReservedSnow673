@@ -36,11 +36,12 @@ const tanvir = {
 
 ## Career Impact
 
-- **290+ production systems delivered**  
-- **200+ clients served globally**  
-- **$150M+ in cumulative ecosystem value contributed**  
-- **Experience across on‑chain, off‑chain, backend, infra & automation pipelines**  
-- **Deep specialization in system design across Web3 + backend + AI tooling**  
+- 290+ production systems delivered
+- 200+ clients served globally  
+- Shipped and maintained multiple production systems across Web3 and backend stacks  
+- Experience across on-chain, off-chain, infra, and automation pipelines  
+- Deep focus on protocol-level design and system reliability  
+- Comfortable owning architecture from design → deployment
 
 I work independently { and in teams ;) }, owning architecture, implementation, optimisation, and deployment across complex real‑world systems.  
 My focus: **build fast, build reliably, build things that scale.**
