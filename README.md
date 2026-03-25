@@ -94,9 +94,10 @@ Linux • Docker • Nginx • Kubernetes (WIP)
 
 ## Contact
 
-- sandhu.tanvirsingh@yahoo.com  
-- reservedsnow673@gmail.com  
-- founder@snowstudios.dev  
+- sandhu.tanvirsingh@yahoo.com (personal)
+- reservedsnow673@gmail.com (personal) 
+- founder@snowstudios.dev (for development related / snowstudios related things)
+- founder@temporalcognition.com (for related to temporal cognition engine)
 
 ---
 
